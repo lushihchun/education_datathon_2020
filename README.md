@@ -7,4 +7,4 @@ program 1:
 - 歷年所有工作重點字 / 歷年所有學校重點字
 
 program 4:
-- 嘗試使嗽bert_embedding
+- 嘗試使用bert_embedding
