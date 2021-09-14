@@ -8,3 +8,5 @@ program 1:
 
 program 4:
 - 嘗試使用bert_embedding
+
+報告時使用之ppt&pdf檔
