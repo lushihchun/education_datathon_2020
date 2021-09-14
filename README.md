@@ -19,3 +19,7 @@ A.分析部分
 https://www.youtube.com/watch?v=GxCqx67OqUg  
 B.系所與職缺配對部份  
 https://www.youtube.com/watch?app=desktop&v=uTgK9narQX4  
+  
+  
+=== 比賽獲獎獎狀 ===  
+  
